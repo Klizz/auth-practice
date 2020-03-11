@@ -2,31 +2,31 @@ const uuid = require('uuid/v4');
 
 const products = [
     {
-        id: uuid(),
+        id: 1,
         name: 'Coca Cola',
         stock: 10,
         value: 12
     },
     {
-        id: uuid(),
+        id: 2,
         name: 'Leche',
         stock: 20,
         value: 60
     },
     {
-        id: uuid(),
+        id: 3,
         name: 'Sabritas',
         stock: 5,
         value: 15
     },
     {
-        id: uuid(),
+        id: 4,
         name: 'Galletas',
         stock: 7,
         value: 13
     },
     {
-        id: uuid(),
+        id: 5,
         name: 'Pan',
         stock: 6,
         value: 22
